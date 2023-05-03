@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 class Database:
-    HOST = '54.90.231.71'
+    HOST = '3.82.245.232'
     DB_PORT = '27017'
     DB_NAME = 'Taxicomm'
 
